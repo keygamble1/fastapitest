@@ -157,7 +157,7 @@ moment.locale('ko')
     }}">
 
     목록으로</button>
-    <!-- 답변목록 -->
+    <!-- 답변목록11 -->
      <h5 class="border-bottom my-3 py-2">{question.answers.length}개의답변있음</h5>
      {#each question.answers as answer}
      <div class="card my-3">
